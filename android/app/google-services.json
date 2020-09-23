@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "265379999210",
+    "firebase_url": "https://deliverrands-35079.firebaseio.com",
+    "project_id": "deliverrands-35079",
+    "storage_bucket": "deliverrands-35079.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265379999210:android:6b3f84761e3dd279b59693",
+        "android_client_info": {
+          "package_name": "com.deliverrands"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265379999210-kflaidlue8he62u6kk47368qolju0osa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deliverrands",
+            "certificate_hash": "90578c5593a174afec739374fd73f13c0fe42435"
+          }
+        },
+        {
+          "client_id": "265379999210-au83ue2atk9eqh9mq20rvoihm6ogj7go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkOsQiT3y-rMLIgSps7IRQKL1cxQVBl8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265379999210-au83ue2atk9eqh9mq20rvoihm6ogj7go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
